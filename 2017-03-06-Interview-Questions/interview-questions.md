@@ -27,3 +27,7 @@ Funny stuff I was asked during interviews or I worked on
 
 ## Pubblications
 1) [HSV Features in Hilbert Spaces](https://github.com/giusedroid/articles/blob/master/2017-03-06-Interview-Questions/interview-questions.md)
+
+2) [Java for Physics](http://www.hoepli.it/libro/java-for-physics-lectures-on-object-oriented-programming-for-solving-physics-problems/9788867890507.html)
+
+3) [JavaScript Gotchas](https://giusedroid.blogspot.it/2016/01/javascript-gotchas-part-i-what-i-think.html)
