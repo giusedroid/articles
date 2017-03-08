@@ -24,6 +24,8 @@ Funny stuff I was asked during interviews or I worked on
 ## Products
 1) [Alfa Romeo Giulia Infotainment System - Navi](https://www.youtube.com/watch?v=VkTD2e51vNA)
 
+2) [Giulia Crivello's personal website](http://www.giuliacrivello.com)
+
 
 ## Pubblications
 1) [HSV Features in Hilbert Spaces](https://github.com/giusedroid/articles/blob/master/2017-03-06-Interview-Questions/interview-questions.md)
